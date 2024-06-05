@@ -1,7 +1,7 @@
 # Project README
 
 ## Autonomus Lab 3: HPC and Deep Learning
-This project explores the intersection of High-Performance Computing (HPC) and Deep Learning, with a focus on optimization algorithms and strategies. The primary objectives include experimenting with different learning rates and optimization methods, analyzing their impact on convergence, and evaluating their performance on both a simple linear model and the MNIST dataset.
+This project investigates the integration of High-Performance Computing (HPC) and Deep Learning, with a focus on optimization algorithms and strategies. The main objectives are to experiment with various learning rates and optimization methods, analyze their impact on convergence, and assess their performance on both a simple linear model and the MNIST dataset.
 
 ## Structure:
 - **Exercise 1: Optimization Algorithms for Linear Model**
@@ -23,4 +23,4 @@ This project explores the intersection of High-Performance Computing (HPC) and D
 4. **Results and Visualizations:**
    - Explore the generated figures and visualizations in each exercise folder to gain insights into convergence and performance.
 ### Conclusion:
-This project provides a comprehensive exploration of optimization algorithms in the context of deep learning, offering practical examples and insights. The findings are applicable to a range of scenarios and can guide users in selecting appropriate algorithms and parameters for their specific tasks. The combination of HPC and deep learning optimization strategies opens avenues for enhanced model training efficiency.
+This project offers a thorough examination of optimization algorithms in deep learning, providing practical examples and insights. The findings assist in choosing suitable algorithms and parameters for various tasks. By combining HPC and deep learning optimization strategies, this study demonstrates improved model training efficiency and effectiveness.
